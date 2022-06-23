@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "puppeteer": "^14.3.0",
+    "ytdl-core": "^4.11.0"
+  }
+}
